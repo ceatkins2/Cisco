@@ -9,8 +9,11 @@ these scripts serve to let you copy existing Feature Templates and use them as a
 
 ## Features
 Authentication with vManage.
+
 Fetch feature template IDs and names.
-Export individual feature templates to JSON files.
+
+Export individual feature templates to JSON files
+
 Create new feature templates from exported JSON
 
 ## Prerequisites
@@ -38,11 +41,12 @@ Create a folder named "FeatureTemplates-JSON" in the directory youll be working 
 
 ### Step 2
 Export Feature Template IDs and Template Names
+
 Run the getFeatureTemplateId.py script.
 
 ```
 python3 getFeatureTemplateId.py
-#enter in required infor for vmanage and credentials
+#enter in required info for vmanage and credentials
 ```
 This creates a text file called "FeatureTemplateIDs.txt" in your local directory
 
