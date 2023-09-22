@@ -68,14 +68,3 @@ python3 createFeatureTemplates.py
 
 
 
-Contribution
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-License
-MIT
-
-Feel free to copy this and adjust it according to the specific details of your project. Save this as a README.md file in the root directory of your GitHub repository.
-
-
-
-
