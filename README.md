@@ -1,7 +1,11 @@
 # SDWAN
 SDWAN Automation
 
-This repository contains Python scripts that interact with Cisco's vManage API to perform various operations such as exporting feature templates, fetching template IDs, and more.
+This repository contains Python scripts that interact with Cisco's vManage API to perform various operations.
+
+The goal of the project was to reduce the amount of time creating feature templates for new SDWAN environments. Given about a dozen of so "generic" templates that we usually create,
+these scripts serve to let you copy existing Feature Templates and use them as a boilerplate to replicate to new environments.
+
 
 ## Features
 Authentication with vManage.
