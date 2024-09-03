@@ -5,6 +5,7 @@ from getpass import getpass
 import urllib3
 
 # no mo' warnings
+# test comment from vstudio
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Prompt for vManage IP or hostname
